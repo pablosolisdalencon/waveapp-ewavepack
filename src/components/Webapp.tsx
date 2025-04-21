@@ -95,7 +95,7 @@ export default function Webapp() {
             <h1 className="welcome-title">{textoProyecto}</h1>
             <p className="welcome-subtitle">{fraseProyecto}</p>
             <div className="welcome-form">
-                <a href="https://wa.me/56920905973?text=Quiero%20hablar%20del%20eWave%20Pack"><button className="welcome-button">¡Hablemos!</button></a>
+                <a href="https://wa.me/56920905973?text=Quiero%20preRagistrarme%20al%20lanzamiento%20del%20eWave%20Pack"><button className="welcome-button">Registro Anticipado aqui!</button></a>
             </div>
         </div>
     </section>

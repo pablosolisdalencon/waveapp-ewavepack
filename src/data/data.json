@@ -1,52 +1,54 @@
 {
 	"proyecto": {
 	  "_id": "67f99da9f7b90ff068b870b2",
-	  "nombre": "eWave Pack",
-	  "texto": "¡Súbete a la ola eWave Pack y revoluciona tu negocio digital hoy!",
-	  "frase": "¡La solución TODO-EN-UNO para tu éxito digital! Deja de remar, ¡súbete a la ola hoy!",
-	  "descripcion": "eWave Pack es la plataforma integral diseñada para emprendedores visionarios que buscan digitalizar su marketing y potenciar su negocio online al menor costo posible. Combinamos herramientas esenciales, automatización inteligente y estrategias probadas para romper las barreras tecnológicas y democratizar el acceso al éxito digital.",
-	  "mision": "¡Incendiar la chispa emprendedora en cada rincón de Chile, liberando a los visionarios de las cadenas tecnológicas y económicas para que conquisten sus sueños digitales con una fuerza imparable!",
-	  "vision": " ¡Un futuro donde la innovación digital sea un torrente desbordante y accesible para cada emprendedor chileno, pulverizando las barreras, democratizando el éxito y desatando una ola de transformación que redefina el panorama empresarial de la nación!",
-	  "logo": "logo.png",
+	  "nombre": "eWave",
+	  "descripcion": "eWave es una plataforma digital integral diseñada para empoderar a emprendedores en Chile, proporcionando las herramientas esenciales para la creación, gestión y crecimiento de sus proyectos digitales. Combinando un motor tecnológico robusto con una interfaz intuitiva y un flujo de trabajo optimizado, eWave facilita la transformación de ideas en productos digitales exitosos, permitiendo a los usuarios navegar el panorama digital con confianza y eficiencia.",
+	  "mision": "Impulsar el éxito de los emprendedores chilenos en el entorno digital, ofreciendo una plataforma innovadora y accesible que simplifique la gestión de sus proyectos y la creación de productos digitales de alto impacto.",
+	  "vision": "Ser la plataforma líder en Chile para la gestión de proyectos digitales y la creación de productos innovadores, reconocida por su eficiencia, intuitividad y su contribución al crecimiento del ecosistema emprendedor digital.",
+	  "texto": "¡No te quedes atrás en la ola digital! Asegura tu acceso anticipado a eWave Pack hoy mismo y comienza a transformar tu emprendimiento.",
+	  "frase": "Beneficios especiales y descuentos para el lanzamiento oficial.",
+	  "logo": "logo.jpg",
 	  "fondo": "fondo.jpg",
+	  "fono": "+56920905973",
+	  "mail": "epicmediawave@gmail.com",
 	  "__v": 0
 	},
 	"catalogo": [
 	  {
 		"_id": "67fca205c11220f2fbabc173",
 		"id_proyecto": "67f99da9f7b90ff068b870b2",
-		"nombre": "eWaveApp Starter",
-		"descripcion": "**Tu escaparate digital listo en minutos.** Una aplicación web ultra-compacta con diseño de landing page que concentra toda la información vital de tu proyecto, un catálogo dinámico y múltiples canales de contacto directo con tus clientes. ¡Impresiona desde el primer clic!",
-		"precio": "60.000",
+		"precio": "Pronto!",
 		"foto": "item1.jpg",
-		"__v": 0
+		"__v": 0,
+		"nombre": "Creación Automatizada de Software mediante IA",
+		"descripcion": "Transforma tus ideas en software funcional de manera rápida y eficiente utilizando nuestra avanzada inteligencia artificial. Describe tu proyecto y deja que eWave genere la estructura base y el código inicial, acelerando significativamente el proceso de desarrollo."
 	  },
 	  {
-		"_id": "67fca210c11220f2fbabc175",
+		"_id": "67fca205c11220f2fbabc174",
 		"id_proyecto": "67f99da9f7b90ff068b870b2",
-		"nombre": "Estudio de Mercado eWave Insights",
-		"descripcion": "**Conoce a tu audiencia como nunca antes.** Realizamos estudios de mercado profundos, precisos y a tu medida, enfocados en tu proyecto, campañas, productos, servicios o cualquier objetivo específico. Obtén la inteligencia estratégica para tomar decisiones informadas y minimizar riesgos.",
-		"precio": "30.000",
+		"precio": "Pronto!",
 		"foto": "item2.jpg",
-		"__v": 0
+		"__v": 0,
+		"nombre": "Agentes IA en Modo Epic",
+		"descripcion": "Potencia tu equipo con agentes de inteligencia artificial de alto rendimiento. Estos agentes 'Epic' pueden encargarse de tareas complejas, desde la investigación y el análisis de datos hasta la gestión de la comunicación y la automatización de procesos críticos, liberando tu tiempo para la estrategia y la innovación."
 	  },
 	  {
-		"_id": "67fca21ec11220f2fbabc177",
+		"_id": "67fca205c11220f2fbabc175",
 		"id_proyecto": "67f99da9f7b90ff068b870b2",
-		"nombre": "Planes Estratégicos eWave Digital",
-		"descripcion": "**Tu hoja de ruta al éxito digital.** Generamos planes y estrategias de marketing digital multiplataforma diseñados para conquistar internet. Recibe un detalle exhaustivo e instrucciones claras para cada contenido y etapa de tu campaña. ¡Maximiza tu impacto online!",
-		"precio": "30.000",
+		"precio": "Pronto!",
 		"foto": "item3.jpg",
-		"__v": 0
+		"__v": 0,
+		"nombre": "Generación de Contenido de Alta Complejidad Técnica",
+		"descripcion": "Crea documentación técnica detallada, manuales de usuario, artículos especializados y otros contenidos complejos con la ayuda de nuestras herramientas de generación de contenido impulsadas por IA. Asegura la precisión, claridad y profesionalismo de tu comunicación técnica."
 	  },
 	  {
-		"_id": "67fca21ec11220f2fbabc178",
+		"_id": "67fca205c11220f2fbabc176",
 		"id_proyecto": "67f99da9f7b90ff068b870b2",
-		"nombre": "Contenido Multimedia eWave Pro",
-		"descripcion": "**Captura la atención con contenido que vende.** Creamos todo el material multimedia de marketing digital que necesitas para ejecutar campañas impactantes: publicaciones de presentación, promociones irresistibles, contenido atractivo para blogs y redes sociales, gráficas profesionales para cada tipo de publicación y mucho más. ¡Tu marca con una imagen poderosa!",
-		"precio": "10.000",
+		"precio": "Pronto!",
 		"foto": "item4.jpg",
-		"__v": 0
+		"__v": 0,
+		"nombre": "Suite de Marketing Digital",
+		"descripcion": "Impulsa tu presencia online y atrae a tus clientes ideales con nuestra suite de marketing digital integrada. Gestiona campañas de email marketing, redes sociales, SEO y análisis web desde una única plataforma, optimizando tus esfuerzos para alcanzar tus objetivos de crecimiento."
 	  }
 	]
   }

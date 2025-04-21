@@ -8,7 +8,7 @@ function Navbar(){
             <a href="#contacto" className="cta-link">¡Oferta de Lanzamiento! Contáctanos Ahora</a>
         </div>
         <div className="nav-container">
-            <a href="/" className="nav-logo"><img src="logo.png" /></a>
+            <a href="/" className="nav-logo"><img src="logo.jpg" /></a>
             <div className="nav-links">
                 <a href="/#nosotros" className="nav-link">Nosotros</a>
                 <a href="/#catalogo" className="nav-link">Catálogo</a>
