@@ -237,6 +237,7 @@ input[type=button]{
 /* Navbar */
 .main-nav {
     @apply bg-white shadow-md py-4 sticky top-8 z-40;
+    padding-right: 10px;
 }
 
 .nav-container {
@@ -247,7 +248,7 @@ input[type=button]{
     @apply font-bold text-xl text-gray-800;
 }
 .nav-logo img{
-   max-height: 100px;
+   max-height: 50px;
 }
 
 .nav-links {
@@ -276,6 +277,7 @@ input[type=button]{
 
 .welcome-content {
     @apply container mx-auto relative z-10;
+    padding: 5%;
 }
 
 .welcome-title {
@@ -340,7 +342,9 @@ input[type=button]{
 .about-us-text {
     @apply text-gray-700 leading-relaxed;
 }
-
+p.about-us-text {
+    padding: 8%;
+}
 /* Sección Catálogo de Productos/Servicios */
 .catalog-section {
     @apply py-16 bg-gray-100;
@@ -371,13 +375,13 @@ input[type=button]{
 }
 
 .product-name {
-    height:57px;
+    height:100px;
     @apply text-lg font-semibold text-gray-700 mb-2;
 }
 
 .product-description {
     @apply text-gray-600 text-sm mb-3;
-    height:260px;
+    height:200px;
 }
 
 .product-price {
