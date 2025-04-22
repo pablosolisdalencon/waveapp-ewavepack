@@ -394,7 +394,7 @@ p.about-us-text {
 
 /* Sección Footer con Mini Form de Contacto */
 .contact-footer {
-    @apply bg-gray-800 py-16 text-white;
+    @apply bg-gray-800 p-16 text-white;
 }
 
 .contact-container {
