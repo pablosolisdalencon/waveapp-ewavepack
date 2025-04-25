@@ -298,9 +298,15 @@ input[type=button]{
 
 .welcome-button ,.contact-button{
     border-radius: 50px;
+    margin:5px;
     @apply bg-indigo-500 hover:bg-purple-700 text-white font-semibold py-3 px-4 focus:outline-none focus-visible:ring focus-visible:ring-indigo-500;
 }
-
+.descarga-guia{
+    border-radius: 50px;
+    margin:5px;
+    background-color: crimson;
+    @apply hover:bg-blue-950 text-white font-semibold py-3 px-4 focus:outline-none focus-visible:ring;
+}
 /* Sección del Logo */
 .logo-section {
     @apply py-12 bg-white;
